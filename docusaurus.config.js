@@ -8,8 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ilanco',
-  tagline: 'Everything I Know',
+  title: 'Everything I Know',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
