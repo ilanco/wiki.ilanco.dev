@@ -33,6 +33,8 @@ const config = {
     locales: ['en'],
   },
 
+  trailingSlash: true,
+
   presets: [
     [
       'classic',
