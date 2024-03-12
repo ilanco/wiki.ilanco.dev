@@ -120,10 +120,10 @@ const config = {
           {
             title: 'More',
             items: [
-              // {
-              //   label: 'Blog',
-              //   to: '/blog',
-              // },
+              {
+                label: 'Blog',
+                href: 'https://ilanco.dev',
+              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
