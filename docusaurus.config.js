@@ -62,19 +62,17 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Wiki',
+        title: 'Everything I Know',
         logo: {
-          alt: 'Wiki',
+          alt: 'Everything I Know',
           src: 'img/logo.svg',
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
+            href: 'https://ilanco.dev',
+            label: 'Blog',
+            position: 'right',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/ilanco/wiki.ilanco.dev',
             label: 'GitHub',
