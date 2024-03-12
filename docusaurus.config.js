@@ -124,10 +124,6 @@ const config = {
                 label: 'Blog',
                 href: 'https://ilanco.dev',
               },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
             ],
           },
         ],
